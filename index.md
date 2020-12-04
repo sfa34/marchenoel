@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<!--CSS-->
+	<link rel="stylesheet" href="style.css" />
+	<!--Font type-->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Podkova&display=swap');
+    </style>
+</head>
+
+<body>
+    <!--bollywood dancers divider +titles-->
+    <header class="masthead text-center">
+        <div class="container">
+          <div class="row justify-content-center align-items-center">
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                <h1 class="masthead-heading text-uppercase mb-0 align-middle">MARCHÉ DE NOËL <span>virtuel</span></h1>
+                 <p class=" masthead-subheading font-weight-light mb-0">Les petits bricolages de vos enfants</p>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"><img src="img/sapin.png" class="img-fluid" alt="">  
+            </div>
+          </div>
+        </div>
+    </header>
+    <!--nav-->
+	<nav class="btn flex-column nav-pills sticky-top" role="tablist" aria-orientation="vertical">
+    <a class="choreos nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">CLASSES</a>    
+         <div class="dropdown-menu">
+            <a class="dropdown-item font-weight-bold" href="#PS">PS</a>
+            <a class="dropdown-item font-weight-bold" href="#MS">MS</a>
+            <a class="dropdown-item font-weight-bold" href="#GS">GS</a>
+            <a class="dropdown-item font-weight-bold" href="#CP">CP</a>
+            <a class="dropdown-item font-weight-bold" href="#CE1">CE1</a>
+            <a class="dropdown-item font-weight-bold" href="#CE2">CE2</a>
+            <a class="dropdown-item font-weight-bold" href="#CM1">CM1</a>
+            <a class="dropdown-item font-weight-bold" href="#CM2">CM2</a>
+        </div>
+    </nav>
+    <!--cards-->
+    <div class="container-fluid">
+    <!-- choreos presentation -->
+        <section>
+            <!--first block -->
+            <div class="card-deck mb-4 mt-10">
+                <div class="card" id="PS">
+                    <div class="card-header text-center">
+                    <h3 class="card-title mb-2">PS</h3>
+                    <h6 small class="card-subtitle mb-1">instit</h6>
+                    </div>
+                    <div class="card-video embed-responsive embed-responsive-16by9">
+                        <iframe width="875" height="492" src="https://www.youtube.com/embed/tHKwuvRBBfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="card" id="MS">
+                    <div class="card-header text-center">
+                    <h3 class="card-title mb-2">MS</h3>
+                    <h6 small class="card-subtitle mb-1">instit</h6>
+                    </div>
+                    <div class="card-video embed-responsive embed-responsive-16by9">
+                        <iframe width="873" height="492" src="https://www.youtube.com/embed/tHKwuvRBBfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="card-footer mx-auto">
+                    </div>
+                </div>
+                <div class="card" id="GS">
+                    <div class="card-header text-center">
+                        <h3 class="card-title mb-2">GS</h3>
+                        <h6 small class="card-subtitle mb-1">instit</h6>
+                    </div>
+                    <div class="card-video embed-responsive embed-responsive-16by9">
+                    <iframe width="875" height="492" src="https://www.youtube.com/embed/tHKwuvRBBfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="card-footer mx-auto">
+                    </div>
+                </div>
+            </div>
+
+            <!--second block -->
+            <div class="card-deck mb-4">
+                <div class="card" id="CP">
+                    <div class="card-header text-center">
+                        <h3 class="card-title mb-2">CP</h3>
+                        <h6 small class="card-subtitle mb-1">instit</h6>
+                    </div>
+                    <div class="card-video embed-responsive embed-responsive-16by9">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/tHKwuvRBBfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="card" id="CE1">
+                    <div class="card-header text-center">
+                        <h3 class="card-title mb-2">CE1</h3>
+                        <h6 small class="card-subtitle mb-1">instit</h6>
+                    </div>
+                    <div class="card-video embed-responsive embed-responsive-16by9">
+                        <iframe width="875" height="492" src="https://www.youtube.com/embed/tHKwuvRBBfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="card" id="CE2">
+                    <div class="card-header text-center">
+                        <h3 class="card-title mb-2">CE2</h3>
+                        <h6 small class="card-subtitle mb-1">instit</h6>
+                    </div>
+                    <div class="card-video embed-responsive embed-responsive-16by9">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/tHKwuvRBBfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="card-footer mx-auto">
+                    </div>
+                </div>
+            </div>
+
+            <!--third block -->
+            <div class="card-deck mb-4">
+                <div class="card" id="CM1">
+                    <div class="card-header text-center">
+                        <h3 class="card-title mb-2">CM1</h3>
+                        <h6 small class="card-subtitle mb-1">instit</h6>
+                    </div>
+                    <div class="card-video embed-responsive embed-responsive-16by9">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/tHKwuvRBBfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="card" id="CM2">
+                    <div class="card-header text-center">                        
+                        <h3 class="card-title mb-2">CM2</h3>
+                        <h6 small class="card-subtitle mb-1">instit</h6>
+                    </div>
+                    <div class="card-video embed-responsive embed-responsive-16by9">
+                        <iframe width="875" height="492" src="https://www.youtube.com/embed/tHKwuvRBBfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>                    
+                    <div class="card-footer mx-auto">
+                    </div>
+                </div>
+                <div class="card" id="1">
+                    <div class="card-header text-center">
+                        <h3 class="card-title mb-2">XX</h3>
+                        <h6 small class="card-subtitle mb-1">instit</h6>
+                    </div>
+                    <div class="card-video embed-responsive embed-responsive-16by9">
+                        <iframe width="875" height="492" src="https://www.youtube.com/embed/tHKwuvRBBfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>                    
+                    <div class="card-footer mx-auto">
+                    </div>
+                </div>
+            </div>
+
+            <!--fourth block -->
+            <div class="card-deck">
+                <div class="card" id="2">
+                    <div class="card-header text-center">                        
+                        <h3 class="card-title mb-2">XX</h3>
+                        <h6 small class="card-subtitle mb-1">instit</h6>
+                    </div>
+                    <div class="card-video embed-responsive embed-responsive-16by9">
+                        <iframe width="875" height="492" src="https://www.youtube.com/embed/tHKwuvRBBfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="card-footer mx-auto">
+                    </div>
+                </div>
+                <div class="card" id="3">
+                    <div class="card-header text-center">                                                
+                        <h3 class="card-title mb-2">XX</h3>
+                        <h6 small class="card-subtitle mb-1">instit</h6>
+                    </div>
+                    <div class="card-video embed-responsive embed-responsive-16by9">
+                        <iframe width="932" height="492" src="https://www.youtube.com/embed/tHKwuvRBBfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="card-footer mx-auto">
+                    </div>                    
+                </div>
+                <div class="card" id="lastCard">
+                    <img src="img/danseurs2.jpg" class="img-fluid" alt="">  
+        
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <section class="text-center">
+                <div class="col-md-12 row-text-center">
+                    <h6>©2020 BaliBolly<br />
+                    Photos freepik.com</h6>
+                </div>
+            </section>
+        </footer>
+    </div>
+        <!-- JavaScript -->
+        <!-- jQuery , Popper.js, Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+</body>
+
+
+
+</html>
