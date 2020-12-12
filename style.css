@@ -58,6 +58,10 @@ a:hover {
 	border: 2px solid 		#484c4f;
 }
 
+#invisible{
+	border: none;
+}
+
 .card-header { 
 	background-color: #e8dfe1;
 }
