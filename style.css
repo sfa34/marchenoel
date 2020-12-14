@@ -1,12 +1,18 @@
 body{
-    margin: 0;
+    margin: 10px 10px 10px 10px;
     font-family: 'Podkova', serif;
-   /*background-color: #d0f4f9;*/
 }
 
 header img{
-	max-width: 60%;
+	max-width: 50%;/*60%*/
 	height: auto;
+}
+
+h1 {
+	color: #f92655;
+	font-family: 'Podkova';
+	font-weight: bold;
+	margin-top: 12px;
 }
 
 .masthead-heading {
@@ -18,33 +24,28 @@ header img{
 .masthead-subheading {	
 	color: 	#484c4f;	
 	font-family: 'East Sea Dokdo', cursive;
-	font-size: 1.5rem;
+	font-size: 2.5rem;
 	letter-spacing: -0.1rem;
 }
 
-span{
-	color: 	#484c4f;
-	font-family: 'East Sea Dokdo', cursive;
-}
-
  ul a {
- 	color: #753149;
-	font-family: 'Lora';
+ 	color: #484c4f;
+	font-family: 'Podkova';
  }
 
  .dropdown-item {
- 	color: #753149;
+ 	color: #484c4f;
  }
 
 a:hover {
   color: #753149;
 }
 
-.choreos {
+.classes {
 	background-color: white;
 	color: #31101c;
 	border: 2px solid #753149;
-	font-family: 'Kalam';
+	font-family: 'Podkova';
 	font-weight: bold;
 	margin-top: 10px;
 }
@@ -54,8 +55,29 @@ a:hover {
 	height:auto;
 }
 
+hr {
+	background-color: #f92655;
+}
+
+h3 {
+	color: #f92655;
+	font-family: 'Podkova';
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+h4 {	
+	font-family: 'Podkova';
+	margin-top: 10px;
+}
+
 .card {
-	border: 2px solid 		#484c4f;
+	border: 2px solid #484c4f;
+	margin:1px 1px 1px 1px;
+}
+
+.card-deck{
+	margin:1px 1px 1px 1px;
 }
 
 #invisible{
@@ -90,7 +112,11 @@ footer {
 	margin-top: 40px;
 }
 
-.button {
-	background:url("img/bankhasFace.png");
+.dropdown-divider{
+	font-color: 	#f92655;
 }
 
+/** BRICOLAGE**/
+.masthead-heading-title {
+	color: #097893;
+}
